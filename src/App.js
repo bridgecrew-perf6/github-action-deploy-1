@@ -5,7 +5,7 @@ function App() {
     <div style={{ textAlign: 'center' }}>
       <h1>testing github auto deploy</h1>
 
-      <p>Change 2</p>
+      <h3>This brunch will Deploy in Heroku</h3>
 
 
     </div >
